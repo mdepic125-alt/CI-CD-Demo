@@ -1,5 +1,5 @@
 
-public class Addition1
+public class hi
 {
     
     public static void main (string arg[])
