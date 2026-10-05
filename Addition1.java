@@ -4,8 +4,9 @@ public class Addition1
     
     public static void main (string arg[])
     {
-        int a = 20
-        int b = 30
+        int a = 20;
+        int b = 30;
+        System.out.println("hi")
     }
 
 
